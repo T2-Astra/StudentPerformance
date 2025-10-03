@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify, render_template
-from model import StudentPerformanceModel
+from model_lightweight import StudentPerformanceModel
 
 app = Flask(__name__)
 

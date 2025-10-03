@@ -2,8 +2,6 @@ services:
   - type: web
     name: student-performance
     env: python
+    runtime: python-3.11.7
     buildCommand: pip install -r requirements.txt
     startCommand: python app.py
-    envVars:
-      - key: PYTHON_VERSION
-        value: 3.11.0
