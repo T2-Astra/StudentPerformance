@@ -1,4 +1,4 @@
-# 🎓 Student Performance Predictor
+# 🎓 Student Performance Predicto
 
 <div align="center">
 
