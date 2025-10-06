@@ -1,4 +1,4 @@
-# 🎓 Student Performance Predict
+# 🎓 Student Performance Predic
 
 <div align="center">
 
