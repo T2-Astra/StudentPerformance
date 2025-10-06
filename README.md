@@ -1,4 +1,4 @@
-# 🎓 Student Performance Pr
+# 🎓 Student Performance Predictor.
 
 <div align="center">
 
