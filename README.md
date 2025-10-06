@@ -1,4 +1,4 @@
-# 🎓 Student Performance Pred
+# 🎓 Student Performance Pr
 
 <div align="center">
 
