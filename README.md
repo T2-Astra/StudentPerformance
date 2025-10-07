@@ -132,7 +132,7 @@ python app.py
 **🤖 Model Type**
 - Linear Regression
 - Scikit-learn Implementation
-- Optimized Coefficientss
+- Optimized Coefficients
 
 </td>
 <td width="33%">
@@ -309,6 +309,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 *Empowering education through intelligent data analysis*
 
 </div>
+
 
 
 
