@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black.svg)
 
-**🤖 AI-Powered Academic Performance Prediction System**
+**🤖 AI-Powered Academic Performance Prediction System.**
 
 [🚀 **Live Demo**](https://student-performance-alpha.vercel.app/) • [📊 Features](#-features) • [🛠️ Installation](#️-installation) • [📈 Usage](#-usage) • [🧠 Model](#-model-details)
 
@@ -309,5 +309,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 *Empowering education through intelligent data analysis*
 
 </div>
+
 
 
