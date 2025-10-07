@@ -1,4 +1,4 @@
-# 🎓 Student Performance Predictor
+# 🎓 Student Performance Predict
 
 <div align="center">
 
@@ -309,6 +309,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 *Empowering education through intelligent data analysis*
 
 </div>
+
 
 
 
