@@ -20,7 +20,7 @@
 
 ## 🌟 Overview
 
-The **Student Performance Predictor** is an intelligent machine learning system that forecasts academic performance using behavioral indicators. Built with modern web technologies and powered by advanced ML algorithms, it provides educators and students with data-driven insights for academic success
+The **Student Performance Predictor** is an intelligent machine learning system that forecasts academic performance using behavioral indicators. Built with modern web technologies and powered by advanced ML algorithms, it provides educators and students with data-driven insights for academic succes
 
 ### ✨ Key Highlights
 
@@ -309,6 +309,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 *Empowering education through intelligent data analysis*
 
 </div>
+
 
 
 
